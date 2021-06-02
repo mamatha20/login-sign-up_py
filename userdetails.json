@@ -1,0 +1,14 @@
+{
+    "user": [
+        {
+            "Username": "DEGAVATH MAMATHA",
+            "Password": "Mamatha123@",
+            "Profile": {
+                "description": "iam from telangana",
+                "d_o_b": "05_07_1999",
+                "Gender": "female",
+                "Hobbies": "i like cooking"
+            }
+        }
+    ]
+}
